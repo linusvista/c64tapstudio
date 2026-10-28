@@ -106,7 +106,3 @@ Opzioni principali:
 ## Origine del progetto
 
 Questo programma riunisce due strumenti sviluppati separatamente: `c64tap.py` (creazione del TAP) e `tap2wav` (TAP ⇄ WAV e verifica).
-
-## Licenza
-
-Da scegliere prima della pubblicazione (ad esempio MIT). Aggiungi un file `LICENSE` al repository.
