@@ -8,6 +8,8 @@ Autore: (c) MMXXVI Linusvista
 
 ---
 
+![Interfaccia grafica](gui.png)
+
 ## Cosa fa
 
 | Scheda / finestra | Funzione |
